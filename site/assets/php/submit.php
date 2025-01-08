@@ -20,7 +20,7 @@ if(isset($_POST['name']) && isset($_POST['email']) && isset($_POST['subject']) &
 	$mail->SMTPSecure = "tls"; // Ativa a criptografia TLS, `ssl` também é aceito
 	$mail->SMTPAuth = true; // Ativa a autenticação SMTP
 	$mail->Username = "m.eduardadasilvadias4@gmail.com";  
-	$mail->Password = "@Parys100"; 
+	$mail->Password = ""; 
 
 	$mail->setFrom($email, $name);  // Define o remetente do e-mail (o e-mail do formulário e o nome)
 	$mail->addAddress("m.eduardadasilvadias4@gmail.com", "Eduarda Dias"); // Define o endereço de e-mail que receberá o e-mail (destinatário)
