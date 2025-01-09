@@ -52,6 +52,6 @@ Sou completamente aberta a ideias, melhorias e críticas construtivas! Se você 
 - 🌐 Conecte-se comigo no [LinkedIn]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/eduarda-dias-723a7820b/))  
 
 ## 🌟 **Acesse Agora**  
-📌 **Portfólio Online:** [clique aqui]([https://seu-link-do-portfolio.com](https://github.com/Diaseduarda01/projeto-portifolio/site/))  
+📌 **Portfólio Online:** [clique aqui](https://diaseduarda01.github.io/projeto-portifolio/site/)  
 
 Vamos juntos construir algo incrível? 💻✨  
