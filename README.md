@@ -49,7 +49,7 @@ Sou movida pela curiosidade e pelo desejo de aprender constantemente. A cada dia
 Sou completamente aberta a ideias, melhorias e críticas construtivas! Se você navegou pelo meu portfólio e tem sugestões, ficarei muito feliz em ouvir.  
 
 - ✉️ Entre em contato comigo: [Clique Aqui](m.eduardadasilvadias4@gmail.com)  
-- 🌐 Conecte-se comigo no [LinkedIn]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/eduarda-dias-723a7820b/))  
+- 🌐 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/eduarda-dias-723a7820b/) 
 
 ## 🌟 **Acesse Agora**  
 📌 **Portfólio Online:** [clique aqui](https://diaseduarda01.github.io/projeto-portifolio/site/)  
